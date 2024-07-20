@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is focused on analyzing a company's data to gather insights that can help in strategic decision-making. We use various data analysis techniques and tools to understand patterns, trends, and correlations in the data.
+This project is focused on analyzing a company's data to gather insights that can help in strategic decision-making. I use various data analysis techniques and tools to understand patterns, trends, and correlations in the data.
 
 ## Getting Started
 
@@ -19,15 +19,15 @@ Ensure you have the following installed on your local machine:
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/yourusername/company-data-analysis.git`
+1. Clone the repo: `https://github.com/Gitau189/Company-analysis`
 
 ## Usage
 
-Open the Jupyter Notebook `wifianalysis.ipynb` and run the cells to perform the data analysis.
+Unfortunately the code won't run as you don't have access to the data.
 
 ## Data
 
-The data used in this project is confidential and proprietary. It consists of various aspects of the company's operations.
+The data used in this t is confidential and proprietary. It consists of various aspects of the company's operations.
 
 ## Methodology
 
